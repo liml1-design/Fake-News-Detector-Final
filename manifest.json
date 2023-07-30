@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Fake News Detector",
+    "description": "Tells user whether a website is fake news",
+    "version": "1.0",
+    "action" : {
+        "default_popup": "popup.html"
+    },
+    "permissions": ["scripting", "activeTab"]
+    
+    
+    
+}
+   

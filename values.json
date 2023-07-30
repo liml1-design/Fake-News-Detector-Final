@@ -1,0 +1,1841 @@
+{
+"cnn":
+[
+  {
+    "reli": 1
+  }
+], 
+"foxnews":
+[
+  {
+    "reli": 2
+  }
+],
+"70news":
+[
+  {
+    "reli": 3
+  }
+],
+"infowars":
+[
+  {
+    "reli": 3
+  }
+],
+"yournewswire":
+[
+  {
+    "reli": 3
+  }
+],
+"rilenews":
+[
+  {
+    "reli": 3
+  }
+],
+"worldnewsreport":
+[
+  {
+    "reli": 3
+  }
+],
+"empirenews":
+[
+  {
+    "reli": 3
+  }
+],
+"politicops":
+[
+  {
+    "reli": 3
+  }
+],
+"huzlers":
+[
+  {
+    "reli": 3
+  }
+],
+"thebostontribune":
+[
+  {
+    "reli": 3
+  }
+],
+"christiantimes":
+[
+  {
+    "reli": 3
+  }
+],
+"now8news":
+[
+  {
+    "reli": 3
+  }
+],
+"empireherald":
+[
+  {
+    "reli": 3
+  }
+],
+"burrardstreetjournal":
+[
+  {
+    "reli": 3
+  }
+],
+"react365":
+[
+  {
+    "reli": 3
+  }
+],
+"theonion":
+[
+  {
+    "reli": 3
+  }
+],
+"civictribune":
+[
+  {
+    "reli": 3
+  }
+],
+"realnewsrightnow":
+[
+  {
+    "reli": 3
+  }
+],
+"nationalreport":
+[
+  {
+    "reli": 3
+  }
+],
+"ifyouonlynews":
+[
+  {
+    "reli": 3
+  }
+],
+"americannews":
+[
+  {
+    "reli": 3
+  }
+],
+"beforeitsnews":
+[
+  {
+    "reli": 3
+  }
+],
+"bients":
+[
+  {
+    "reli": 3
+  }
+],
+"bipartisanreport":
+[
+  {
+    "reli": 3
+  }
+],
+"bizstandardnews":
+[
+  {
+    "reli": 3
+  }
+],
+"breaking-cnn":
+[
+  {
+    "reli": 3
+  }
+],
+"buffalochronicle":
+[
+  {
+    "reli": 3
+  }
+],
+"bvanews":
+[
+  {
+    "reli": 3
+  }
+],
+"cairnsnews":
+[
+  {
+    "reli": 3
+  }
+],
+"celebtricity":
+[
+  {
+    "reli": 3
+  }
+],
+"cnn-trending":
+[
+  {
+    "reli": 3
+  }
+],
+"conservative101":
+[
+  {
+    "reli": 3
+  }
+],
+"conservativefrontline":
+[
+  {
+    "reli": 3
+  }
+],
+"countynewsroom":
+[
+  {
+    "reli": 3
+  }
+],
+"dailyusaupdate":
+[
+  {
+    "reli": 3
+  }
+],
+"disclose":
+[
+  {
+    "reli": 3
+  }
+],
+"drudgereport":
+[
+  {
+    "reli": 3
+  }
+],
+"empiresports":
+[
+  {
+    "reli": 3
+  }
+],
+"theexpose":
+[
+  {
+    "reli": 3
+  }
+],
+"fox-news24":
+[
+  {
+    "reli": 3
+  }
+],
+"thegatewaypundit":
+[
+  {
+    "reli": 3
+  }
+],
+"globalassociatednews":
+[
+  {
+    "reli": 3
+  }
+],
+"globalresearch":
+[
+  {
+    "reli": 3
+  }
+],
+"gossipmillmzansi":
+[
+  {
+    "reli": 3
+  }
+],
+"thegrayzone":
+[
+  {
+    "reli": 3
+  }
+],
+"guerillanews":
+[
+  {
+    "reli": 3
+  }
+],
+"gummypost":
+[
+  {
+    "reli": 3
+  }
+],
+"houstonchronicletv":
+[
+  {
+    "reli": 3
+  }
+],
+"judicialwatch":
+[
+  {
+    "reli": 3
+  }
+],
+"kboi2":
+[
+  {
+    "reli": 3
+  }
+],
+"kmt11news":
+[
+  {
+    "reli": 3
+  }
+],
+"thelastlineofdefense":
+[
+  {
+    "reli": 3
+  }
+],
+"lawenforcementtoday":
+[
+  {
+    "reli": 3
+  }
+],
+"liberalsociety":
+[
+  {
+    "reli": 3
+  }
+],
+"libertywritersnews":
+[
+  {
+    "reli": 3
+  }
+],
+"linkbeef":
+[
+  {
+    "reli": 3
+  }
+],
+"mv-media":
+[
+  {
+    "reli": 3
+  }
+],
+"nahadaily":
+[
+  {
+    "reli": 3
+  }
+],
+"nationalinsiderpolitics":
+[
+  {
+    "reli": 3
+  }
+],
+"naturalnews":
+[
+  {
+    "reli": 3
+  }
+],
+"newsbreakshere":
+[
+  {
+    "reli": 3
+  }
+],
+"newsbuzzdaily":
+[
+  {
+    "reli": 3
+  }
+],
+"newsexaminer":
+[
+  {
+    "reli": 3
+  }
+],
+"newshound":
+[
+  {
+    "reli": 3
+  }
+],
+"thenewsnerd":
+[
+  {
+    "reli": 3
+  }
+],
+"newspunch":
+[
+  {
+    "reli": 3
+  }
+],
+"newswatch33":
+[
+  {
+    "reli": 3
+  }
+],
+"thenewyorkevening":
+[
+  {
+    "reli": 3
+  }
+],
+"nextnewsnetwork":
+[
+  {
+    "reli": 3
+  }
+],
+"opindia":
+[
+  {
+    "reli": 3
+  }
+],
+"palmerreport":
+[
+  {
+    "reli": 3
+  }
+],
+"peacedata":
+[
+  {
+    "reli": 3
+  }
+],
+"postcardnews":
+[
+  {
+    "reli": 3
+  }
+],
+"prntly":
+[
+  {
+    "reli": 3
+  }
+],
+"realrawnews":
+[
+  {
+    "reli": 3
+  }
+],
+"thereporterz":
+[
+  {
+    "reli": 3
+  }
+],
+"slaynews":
+[
+  {
+    "reli": 3
+  }
+],
+"snoopack":
+[
+  {
+    "reli": 3
+  }
+],
+"spinzone":
+[
+  {
+    "reli": 3
+  }
+],
+"stgeorgegazette":
+[
+  {
+    "reli": 3
+  }
+],
+"stuppid":
+[
+  {
+    "reli": 3
+  }
+],
+"superstation95":
+[
+  {
+    "reli": 3
+  }
+],
+"trunews":
+[
+  {
+    "reli": 3
+  }
+],
+"truetrumpers":
+[
+  {
+    "reli": 3
+  }
+],
+"uconservative":
+[
+  {
+    "reli": 3
+  }
+],
+"undergroundnewsreport":
+[
+  {
+    "reli": 3
+  }
+],
+"unhivedmind":
+[
+  {
+    "reli": 3
+  }
+],
+"unitedmediapublishing":
+[
+  {
+    "reli": 3
+  }
+],
+"usadailyinfo":
+[
+  {
+    "reli": 3
+  }
+],
+"uspostman":
+[
+  {
+    "reli": 3
+  }
+],
+"worldnetdaily":
+[
+  {
+    "reli": 3
+  }
+],
+"worldnewsdailyreport":
+[
+  {
+    "reli": 3
+  }
+],
+"abcnews":
+[
+  {
+    "reli": 1
+  }
+],
+"theage":
+[
+  {
+    "reli": 1
+  }
+],
+"agencefrance-presse":
+[
+  {
+    "reli": 1
+  }
+],
+"aljazeera":
+[
+  {
+    "reli": 1
+  }
+],
+"amnestyinternational":
+[
+  {
+    "reli": 1
+  }
+],
+"anti-defamationleague":
+[
+  {
+    "reli": 1
+  }
+],
+"aon":
+[
+  {
+    "reli": 1
+  }
+],
+"arstechnica":
+[
+  {
+    "reli": 1
+  }
+],
+"associatedpress":
+[
+  {
+    "reli": 1
+  }
+],
+"theatlantic":
+[
+  {
+    "reli": 1
+  }
+],
+"theaustralian":
+[
+  {
+    "reli": 1
+  }
+],
+"avclub":
+[
+  {
+    "reli": 1
+  }
+],
+"avn":
+[
+  {
+    "reli": 1
+  }
+],
+"axios":
+[
+  {
+    "reli": 1
+  }
+],
+"bbc":
+[
+  {
+    "reli": 1
+  }
+],
+"behindthevoiceactors":
+[
+  {
+    "reli": 1
+  }
+],
+"bellingcat":
+[
+  {
+    "reli": 1
+  }
+],
+"bloomberg":
+[
+  {
+    "reli": 1
+  }
+],
+
+"burkespeerage":
+[
+  {
+    "reli": 1
+  }
+],
+
+"buzzfeednews":
+[
+  {
+    "reli": 2
+  }
+],
+
+"csmonitor":
+[
+  {
+    "reli": 1
+  }
+],
+
+"climatefeedback":
+[
+  {
+    "reli": 1
+  }
+],
+
+"codamedia":
+[
+  {
+    "reli": 1
+  }
+],
+
+
+"commonsensemedia":
+[
+  {
+    "reli": 1
+  }
+],
+
+"theconversation":
+[
+  {
+    "reli": 1
+  }
+],
+"telegraph":
+[
+  {
+    "reli": 1
+  }
+],
+
+"deadlinehollywood":
+[
+  {
+    "reli": 1
+  }
+],
+
+"debretts":
+[
+  {
+    "reli": 1
+  }
+],
+"deseretnews":
+[
+  {
+    "reli": 1
+  }
+],
+
+"deutschewelle":
+[
+  {
+    "reli": 1
+  }
+],
+
+"digitalspy":
+[
+  {
+    "reli": 1
+  }
+],
+
+"thediplomat":
+[
+  {
+    "reli": 1
+  }
+],
+
+"economist":
+[
+  {
+    "reli": 1
+  }
+],
+
+"iranicaonline":
+[
+  {
+    "reli": 1
+  }
+],
+
+"engadget":
+[
+  {
+    "reli": 1
+  }
+],
+
+"entertainmentweekly":
+[
+  {
+    "reli": 1
+  }
+],
+
+"financialtimes":
+[
+  {
+    "reli": 1
+  }
+],
+
+"forbes":
+[
+  {
+    "reli": 1
+  }
+],
+
+"gamedeveloper":
+[
+  {
+    "reli": 1
+  }
+],
+
+"gameinformer":
+[
+  {
+    "reli": 1
+  }
+],
+
+"gazetawyborcza":
+[
+  {
+    "reli": 1
+  }
+],
+
+
+"geographicnamesinformationsystem":
+[
+  {
+    "reli": 1
+  }
+],
+"gizmodo":
+[
+  {
+    "reli": 1
+  }
+],
+
+"theglobeandmail":
+[
+  {
+    "reli": 1
+  }
+],
+
+
+"haaretz":
+[
+  {
+    "reli": 1
+  }
+],
+
+"thehill":
+[
+  {
+    "reli": 1
+  }
+],
+
+"thehindu":
+[
+  {
+    "reli": 1
+  }
+],
+
+"hollywoodreporter":
+[
+  {
+    "reli": 1
+  }
+],
+
+
+"independent":
+[
+  {
+    "reli": 1
+  }
+],
+"indianexpress":
+[
+  {
+    "reli": 1
+  }
+],
+"interpressservice":
+[
+  {
+    "reli": 1
+  }
+],
+"theintercept":
+[
+  {
+    "reli": 1
+  }
+],
+"jacobin":
+[
+  {
+    "reli": 1
+  }
+],
+"jamanetwork":
+[
+  {
+    "reli": 1
+  }
+],
+"thejc":
+[
+  {
+    "reli": 1
+  }
+],
+"kirkusreviews":
+[
+  {
+    "reli": 1
+  }
+],
+"kommersant":
+[
+  {
+    "reli": 1
+  }
+],
+"losangelestimes":
+[
+  {
+    "reli": 1
+  }
+],
+"mail":
+[
+  {
+    "reli": 1
+  }
+],
+"themarysue":
+[
+  {
+    "reli": 1
+  }
+],
+"metacritic":
+[
+  {
+    "reli": 1
+  }
+],
+"lemondediplomatique":
+[
+  {
+    "reli": 1
+  }
+],
+"motherjones":
+[
+  {
+    "reli": 1
+  }
+],
+"msnbc":
+[
+  {
+    "reli": 1
+  }
+],
+"thenation":
+[
+  {
+    "reli": 1
+  }
+],
+"nationalgeographic":
+[
+  {
+    "reli": 1
+  }
+],
+"nbcnews":
+[
+  {
+    "reli": 1
+  }
+],
+"newrepublic":
+[
+  {
+    "reli": 1
+  }
+],
+"newyorkdailynews":
+[
+  {
+    "reli": 1
+  }
+],
+"nytimes":
+[
+  {
+    "reli": 1
+  }
+],
+"newyorker":
+[
+  {
+    "reli": 1
+  }
+],
+"nzherald":
+[
+  {
+    "reli": 1
+  }
+],
+"newslaundry":
+[
+  {
+    "reli": 1
+  }
+],
+"npr":
+[
+  {
+    "reli": 1
+  }
+],
+"people":
+[
+  {
+    "reli": 1
+  }
+],
+"peoplemakegames":
+[
+  {
+    "reli": 1
+  }
+],
+"pewresearchcenter":
+[
+  {
+    "reli": 1
+  }
+],
+"pinknews":
+[
+  {
+    "reli": 1
+  }
+],
+"playboy":
+[
+  {
+    "reli": 1
+  }
+],
+"politico":
+[
+  {
+    "reli": 1
+  }
+],
+"politifact":
+[
+  {
+    "reli": 1
+  }
+],
+"polygon":
+[
+  {
+    "reli": 1
+  }
+],
+"propublica":
+[
+  {
+    "reli": 1
+  }
+],
+"quartz":
+[
+  {
+    "reli": 1
+  }
+],
+"radiofreeasia":
+[
+  {
+    "reli": 1
+  }
+],
+"rappler":
+[
+  {
+    "reli": 1
+  }
+],
+"reason":
+[
+  {
+    "reli": 1
+  }
+],
+"theregister":
+[
+  {
+    "reli": 1
+  }
+],
+"religionnewsservice":
+[
+  {
+    "reli": 1
+  }
+],
+"reuters":
+[
+  {
+    "reli": 1
+  }
+],
+"rollingstone":
+[
+  {
+    "reli": 1
+  }
+],
+"rottentomatoes":
+[
+  {
+    "reli": 1
+  }
+],
+
+
+"sciencebasedmedicine":
+[
+  {
+    "reli": 1
+  }
+],
+"scientificamerican":
+[
+  {
+    "reli": 1
+  }
+],
+"scotusblog":
+[
+  {
+    "reli": 1
+  }
+],
+"skynews":
+[
+  {
+    "reli": 1
+  }
+],
+"snopes":
+[
+  {
+    "reli": 1
+  }
+],
+"southchinamorningpost":
+[
+  {
+    "reli": 1
+  }
+],
+"southernpovertylawcenter":
+[
+  {
+    "reli": 1
+  }
+],
+"space":
+[
+  {
+    "reli": 1
+  }
+],
+"derspiegel":
+[
+  {
+    "reli": 1
+  }
+],
+"smh":
+[
+  {
+    "reli": 1
+  }
+],
+"thewrap":
+[
+  {
+    "reli": 1
+  }
+],
+"time":
+[
+  {
+    "reli": 1
+  }
+],
+"thetimes":
+[
+  {
+    "reli": 1
+  }
+],
+"torrentfreak":
+[
+  {
+    "reli": 1
+  }
+],
+"tvguide":
+[
+  {
+    "reli": 1
+  }
+],
+"usnewsandworldreport":
+[
+  {
+    "reli": 1
+  }
+],
+"usatoday":
+[
+  {
+    "reli": 1
+  }
+],
+"vanityfair":
+[
+  {
+    "reli": 1
+  }
+],
+"variety":
+[
+  {
+    "reli": 1
+  }
+],
+"venturebeat":
+[
+  {
+    "reli": 1
+  }
+],
+"theverge":
+[
+  {
+    "reli": 1
+  }
+],
+"vogue":
+[
+  {
+    "reli": 1
+  }
+],
+"voiceofamerica":
+[
+  {
+    "reli": 1
+  }
+],
+"vox":
+[
+  {
+    "reli": 1
+  }
+],
+"wsj":
+[
+  {
+    "reli": 1
+  }
+],
+"washingtonpost":
+[
+  {
+    "reli": 1
+  }
+],
+
+"thewire":
+[
+  {
+    "reli": 1
+  }
+],
+"wired":
+[
+  {
+    "reli": 1
+  }
+],
+"yahoonews":
+[
+  {
+    "reli": 1
+  }
+],
+"zdnet":
+[
+  {
+    "reli": 1
+  }
+],
+"alexainternet":
+[
+  {
+    "reli": 2
+  }
+],
+"allsides":
+[
+  {
+    "reli": 2
+  }
+],
+"theamericanconservative":
+[
+  {
+    "reli": 2
+  }
+],
+"anadoluagency":
+[
+  {
+    "reli": 2
+  }
+],
+"appledaily":
+[
+  {
+    "reli": 2
+  }
+],
+"arabnews":
+[
+  {
+    "reli": 2
+  }
+],
+"asiannewsinternational":
+[
+  {
+    "reli": 2
+  }
+],
+"askmen":
+[
+  {
+    "reli": 2
+  }
+],
+"thearda":
+[
+  {
+    "reli": 2
+  }
+],
+"australianst":
+[
+  {
+    "reli": 2
+  }
+],
+"aspi":
+[
+  {
+    "reli": 2
+  }
+],
+"ballotpedia":
+[
+  {
+    "reli": 2
+  }
+],
+"biography":
+[
+  {
+    "reli": 2
+  }
+],
+"boingboing":
+[
+  {
+    "reli": 2
+  }
+],
+"bustle":
+[
+  {
+    "reli": 2
+  }
+],
+"catoinstitute":
+[
+  {
+    "reli": 2
+  }
+],
+"center":
+[
+  {
+    "reli": 2
+  }
+],
+"cepr":
+[
+  {
+    "reli": 2
+  }
+],
+
+
+"chinadaily":
+[
+  {
+    "reli": 2
+  }
+],
+"cliffsnotes":
+[
+  {
+    "reli": 2
+  }
+],
+"cnet":
+[
+  {
+    "reli": 3
+  }
+],
+"cosmopolitan":
+[
+  {
+    "reli": 2
+  }
+],
+"thedailybeast":
+[
+  {
+    "reli": 2
+  }
+],
+
+
+"thedailydot":
+[
+  {
+    "reli": 2
+  }
+],
+"dailymirror":
+[
+  {
+    "reli": 2
+  }
+],
+"dailynk":
+[
+  {
+    "reli": 2
+  }
+],
+"democracynow":
+[
+  {
+    "reli": 2
+  }
+],
+"dotdash":
+[
+  {
+    "reli": 2
+  }
+],
+"britannica":
+[
+  {
+    "reli": 2
+  }
+],
+"entrepreneur":
+[
+  {
+    "reli": 2
+  }
+],
+
+
+"eveningstandard":
+[
+  {
+    "reli": 2
+  }
+],
+"genius":
+[
+  {
+    "reli": 2
+  }
+],
+"geonames":
+[
+  {
+    "reli": 2
+  }
+],
+"thegreenpapers":
+[
+  {
+    "reli": 2
+  }
+],
+"theguardian":
+[
+  {
+    "reli": 2
+  }
+],
+"hansard":
+[
+  {
+    "reli": 2
+  }
+],
+"heavy":
+[
+  {
+    "reli": 2
+  }
+],
+"hopenothate":
+[
+  {
+    "reli": 2
+  }
+],
+"huffpost":
+[
+  {
+    "reli": 2
+  }
+],
+"humanevents":
+[
+  {
+    "reli": 2
+  }
+],
+
+"insider":
+[
+  {
+    "reli": 2
+  }
+],
+"islamqa":
+[
+  {
+    "reli": 2
+  }
+],
+"jezebel":
+[
+  {
+    "reli": 2
+  }
+],
+
+"mashable":
+[
+  {
+    "reli": 2
+  }
+],
+"mediamattersforamerica":
+[
+  {
+    "reli": 2
+  }
+],
+"mediaite":
+[
+  {
+    "reli": 2
+  }
+],
+"mentalsucks":
+[
+  {
+    "reli": 2
+  }
+],
+"mondoweiss":
+[
+  {
+    "reli": 2
+  }
+],
+
+
+"morningstar":
+[
+  {
+    "reli": 2
+  }
+],
+"nationalreview":
+[
+  {
+    "reli": 2
+  }
+],
+"theneedledrop":
+[
+  {
+    "reli": 2
+  }
+],
+"newsweek":
+[
+  {
+    "reli": 2
+  }
+],
+
+"thenextweb":
+[
+  {
+    "reli": 2
+  }
+],
+"pride":
+[
+  {
+    "reli": 2
+  }
+],
+"quackwatch":
+[
+  {
+    "reli": 2
+  }
+],
+"realclearpolitics":
+[
+  {
+    "reli": 2
+  }
+],
+"rhythmone":
+[
+  {
+    "reli": 2
+  }
+],
+"rianovosti":
+[
+  {
+    "reli": 2
+  }
+],
+"salon":
+[
+  {
+    "reli": 2
+  }
+],
+"scienceblogs":
+[
+  {
+    "reli": 2
+  }
+],
+
+
+"screenrant":
+[
+  {
+    "reli": 2
+  }
+],
+"sherdog":
+[
+  {
+    "reli": 2
+  }
+],
+"sixthtone":
+[
+  {
+    "reli": 2
+  }
+],
+"theskepticsdictionary":
+[
+  {
+    "reli": 2
+  }
+],
+"sparknotes":
+[
+  {
+    "reli": 2
+  }
+],
+"thespectator":
+[
+  {
+    "reli": 2
+  }
+],
+"thestraitstimes":
+[
+  {
+    "reli": 2
+  }
+],
+"techcrunch":
+[
+  {
+    "reli": 2
+  }
+],
+"thinkprogress":
+[
+  {
+    "reli": 2
+  }
+],
+"tmz":
+[
+  {
+    "reli": 2
+  }
+],
+"thetimesofindia":
+[
+  {
+    "reli": 2
+  }
+],
+
+
+"townhall":
+[
+  {
+    "reli": 2
+  }
+],
+"trtworld":
+[
+  {
+    "reli": 2
+  }
+],
+"usweekly":
+[
+  {
+    "reli": 2
+  }
+],
+"vicemedia":
+[
+  {
+    "reli": 2
+  }
+],
+"washingtonexaminer":
+[
+  {
+    "reli": 2
+  }
+],
+"washingtontimes":
+[
+  {
+    "reli": 2
+  }
+],
+"wikidata":
+[
+  {
+    "reli": 2
+  }
+],
+
+
+"wikipedia":
+[
+  {
+    "reli": 2
+  }
+],
+"wsws":
+[
+  {
+    "reli": 2
+  }
+],
+"xbiz":
+[
+  {
+    "reli": 2
+  }
+],
+"xinhuanewsagency":
+[
+  {
+    "reli": 2
+  }
+]
+
+
+
+
+
+}
